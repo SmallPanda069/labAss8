@@ -142,7 +142,6 @@ void printArray(int pData[], int dataSz)
 	}
 	printf("\n\n");
 }
-
 int main(void)
 {
 	clock_t start, end;
